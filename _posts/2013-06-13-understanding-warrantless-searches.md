@@ -1,3 +1,13 @@
+---                                                                            
+layout: post
+title: How Many U.S. government employees can an Australian trust?
+---
+
+{{ page.title }}
+================
+
+<p class="meta">13 June 2013 - Brisbane</p>
+
 Amid all the claims and counter-claims about U.S. government spying on the citizens of the world, it is difficult to arrive at absolute certainties. However, some things are starting to become clearer.
 
 When governments spy, not only the guilty suffer, plenty of innocent bystanders suffer too. You and me perhaps. All those trigger-happy cops enjoy showing how tough they are.
